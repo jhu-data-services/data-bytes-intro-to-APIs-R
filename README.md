@@ -1,4 +1,6 @@
 # Introduction to APIs in R
+This repository contains workshop materials used in [JHU Data Services'](https://dataservices.library.jhu.edu/) workshop, Introduction to APIs in R.
+
 Heard about Application Programming Interfaces (APIs), but don't know exactly what they are or how to use them? Join Johns Hopkins Data Services in this Data Bytes session as we cover a powerful tool for researchers to access and acquire data. This presentation will introduce APIs and cover how to make API requests in R.
 
 
@@ -14,17 +16,23 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. This
 
 
 ## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
+There are no pre-class instructions for this 1-hour workshop. If you are interested in following along the demonstration portion, we recommend cloning and/or downloading a copy of this repository to your own computer. 
 
+### R and RStudio Installation and/or Updates
+This workshop's demonstration uses R and RStudio. To follow along, make sure you have access to R and RStudio by either downloading R and RStudio, or setting up a free account at [RStudio Cloud](https://rstudio.cloud/).
+
+- Download links: 
+	- R - https://cran.r-project.org/
+	- RStudio - https://www.rstudio.com/products/rstudio/download/ (Download “RStudio Desktop”, not “RStudio Server”)
+- If it’s been a while since you’ve used R or R Studio, no worries! But check your versions and consider updating if you’re several versions behind.
 
 ## Description of Files
-- Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains code files you will need for the workshop:
     - [file1]
     - [file2]
     - [file3]
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
+- Resources: This folder contains a markdown file with links to additional resources to help you keep learning. 
 
 
 ## Post-Class Survey
@@ -41,4 +49,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. [Date of workshop]. Introduction to APIs in R. [URL] 
