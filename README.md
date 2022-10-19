@@ -1,15 +1,16 @@
-# Workshop Name
-[description]
+# Introduction to APIs in R
+Heard about Application Programming Interfaces (APIs), but don't know exactly what they are or how to use them? Join Johns Hopkins Data Services in this Data Bytes session as we cover a powerful tool for researchers to access and acquire data. This presentation will introduce APIs and cover how to make API requests in R.
 
 
 ## JHU Data Services   
 Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
-Contact us: [dataservices@jhu.edu](mailto:dataservices@jhu.edu)   
+Contact us: [dataservices@jhu.edu](mailto:dataservices@jhu.edu)  
+
 JHU Data Services, part of the Johns Hopkins University Sheridan Libraries, helps the JHU community find, use, visualize, manage, and share data. We offer live webinars and self-paced online trainings on computational research and coding, GIS, data management, data visualization, and more. [See all of our training topics on our website.](https://dataservices.library.jhu.edu/training-workshops/)   
 
-This repository contains materials for one of our live webinars open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
+This repository contains materials for one of our [Data Bytes webinars](https://dataservices.library.jhu.edu/data-bytes/), which is open to JHU students, faculty, and staff. Please [contact us](mailto:dataservices@jhu.edu) with any questions.
 
-As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
+As of March 2020, Data Services workshops are being held virtually on Zoom. This webinar is recorded and will be made available on Panopto.
 
 
 ## Pre-Class Instructions
