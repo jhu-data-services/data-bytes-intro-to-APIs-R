@@ -16,10 +16,13 @@ As of March 2020, Data Services workshops are being held virtually on Zoom. This
 
 
 ## Pre-Class Instructions
-There are no pre-class instructions for this 1-hour workshop. If you are interested in following along the demonstration portion, we recommend cloning and/or downloading a copy of this repository to your own computer. 
+If you are interested in following along the demonstration portion, we recommend cloning and/or downloading a copy of this repository to your own computer. 
 
 ### R and RStudio Installation and/or Updates
 This workshop's demonstration uses R and RStudio. To follow along, make sure you have access to R and RStudio by either downloading R and RStudio, or setting up a free account at [RStudio Cloud](https://rstudio.cloud/).
+
+### Request a US Census Bureau API Key
+To follow along during the workshop, you'll need an API key. From the [US Census Bureau's Developer site](https://www.census.gov/data/developers/data-sets.html), submit your [API key request](https://api.census.gov/data/key_signup.html).
 
 - Download links: 
 	- R - https://cran.r-project.org/
@@ -27,17 +30,14 @@ This workshop's demonstration uses R and RStudio. To follow along, make sure you
 - If it’s been a while since you’ve used R or R Studio, no worries! But check your versions and consider updating if you’re several versions behind.
 
 ## Description of Files
-- In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+- In-ClassScripts: This folder contains code files you will need for the workshop. These will be run in RStudio Cloud during the workshop.  
+    - demo1_rjsonio: R file for demonstration 1
+    - demo2_tidycensus: R file for demonstration 2
+    - demo3_censusapi: R file for demonstration 3
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains a markdown file with links to additional resources to help you keep learning. 
-
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
-
+If you have taken the live webinar for this class, please take this survey: [Data Bytes Survey](http://bit.ly/data-bytes-survey). 
 
 ## License and Terms of Use
 The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University. 
@@ -49,4 +49,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. Introduction to APIs in R. [URL] 
+Johns Hopkins University Data Services. October 31, 2022. Data Bytes: Introduction to APIs in R. https://github.com/jhu-data-services/data-bytes-intro-to-APIs-R.
