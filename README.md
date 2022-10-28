@@ -21,13 +21,13 @@ If you are interested in following along the demonstration portion, we recommend
 ### R and RStudio Installation and/or Updates
 This workshop's demonstration uses R and RStudio. To follow along, make sure you have access to R and RStudio by either downloading R and RStudio, or setting up a free account at [RStudio Cloud](https://rstudio.cloud/).
 
-### Request a US Census Bureau API Key
-To follow along during the workshop, you'll need an API key. From the [US Census Bureau's Developer site](https://www.census.gov/data/developers/data-sets.html), submit your [API key request](https://api.census.gov/data/key_signup.html).
-
 - Download links: 
 	- R - https://cran.r-project.org/
 	- RStudio - https://www.rstudio.com/products/rstudio/download/ (Download “RStudio Desktop”, not “RStudio Server”)
 - If it’s been a while since you’ve used R or R Studio, no worries! But check your versions and consider updating if you’re several versions behind.
+
+### Request a US Census Bureau API Key
+To follow along during the workshop, you'll need an API key. From the [US Census Bureau's Developer site](https://www.census.gov/data/developers/data-sets.html), submit your [API key request](https://api.census.gov/data/key_signup.html).
 
 ## Description of Files
 - In-ClassScripts: This folder contains code files you will need for the workshop. These will be run in RStudio Cloud during the workshop.  
